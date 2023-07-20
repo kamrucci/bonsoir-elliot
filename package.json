@@ -1,0 +1,25 @@
+{
+  "name": "bonsoir-elliot",
+  "version": "1.0.0",
+  "description": "app logging bonsoir-elliot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamrucci/bonsoir-elliot.git"
+  },
+  "private": "false",
+  "keywords": [
+    "bonsoir",
+    "elliot"
+  ],
+  "author": "kamrucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamrucci/bonsoir-elliot/issues"
+  },
+  "homepage": "https://github.com/kamrucci/bonsoir-elliot#readme"
+}
