@@ -1,6 +1,6 @@
 {
   "name": "bonsoir-elliot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "app logging bonsoir-elliot",
   "main": "src/index.js",
   "scripts": {
